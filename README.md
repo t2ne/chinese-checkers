@@ -46,7 +46,7 @@ git clone https://github.com/t2ne/chinese-checkers.git
 
 **Machine 1:**
 ```
---module-path C:\Users\t8ne\.m2\repository\org\openjfx\javafx-controls\21;C:\Users\t8ne\.m2\repository\org\openjfx\javafx-fxml\21;C:\Users\t8ne\.m2\repository\org\openjfx\javafx-graphics\21;C:\Users\t8ne\.m2\repository\org\openjfx\javafx-base\21 --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.base
+--module-path C:\Users\t2ne\.m2\repository\org\openjfx\javafx-controls\21;C:\Users\t2ne\.m2\repository\org\openjfx\javafx-fxml\21;C:\Users\t2ne\.m2\repository\org\openjfx\javafx-graphics\21;C:\Users\t2ne\.m2\repository\org\openjfx\javafx-base\21 --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.base
 ```
 
 **Machine 2:**
